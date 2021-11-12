@@ -1,4 +1,4 @@
-# Oi, tudo bem? Esse é um clone do Instagram feito para o Bootcamp da DIO? :computer:
+# Oi, tudo bem? Esse é um clone do Instagram feito para o Bootcamp da DIO. :computer:
 
 Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
